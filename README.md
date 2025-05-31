@@ -1,1 +1,0 @@
-Learning CoreJava with project
